@@ -1,0 +1,38 @@
+
+body {
+  background-image: url(huella.webp);
+  font-family: 'Poppins', sans-serif;
+  padding: 2%;
+}
+
+h1 {
+  color: rgb(75, 100, 76);
+}
+ul {
+    list-style-position: inside;
+}
+
+.CustSec {
+    background-color: khaki;
+    width: 40%;
+    height: 40%;
+    align-content: center;
+    margin: 0 auto;
+}
+button {
+    color: rgb(172, 91, 26);
+    background-color: beige;
+    border-radius: 15%;
+    border: none;
+}
+.Cuerpo {
+    background-color: rgb(110, 143, 148);
+    width: 80%;
+    height: 80%;
+    align-content: center;
+    margin: 0 auto;
+}
+footer {
+    font-size: small;
+    margin: 1%;
+}
